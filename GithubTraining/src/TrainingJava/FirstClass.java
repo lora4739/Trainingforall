@@ -7,6 +7,7 @@ public class FirstClass {
 
 		System.out.println(" I am learning Git");
 		System.out.println("commiting the code to repository");
+		System.out.println("commiting the code to the central repository");
 	}
 
 }
