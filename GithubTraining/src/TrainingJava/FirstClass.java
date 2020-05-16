@@ -6,6 +6,7 @@ public class FirstClass {
 		// TODO Auto-generated method stub
 
 		System.out.println(" I am learning Git");
+		System.out.println("commiting the code to repository");
 	}
 
 }
